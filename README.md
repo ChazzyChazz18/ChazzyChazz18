@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChazzyChazz18
+- 👀 I’m interested in Front end development and mobile applications
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a good collaborative app or a game (Unity)
+- 📫 You could reach me at rewelme18@hotmail.com or https://www.linkedin.com/in/rewel-mejia-estrella-a027a9196/
