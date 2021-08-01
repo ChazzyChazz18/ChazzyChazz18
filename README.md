@@ -29,7 +29,7 @@
 
 <br />
 
-##
+## Aditional Info:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
