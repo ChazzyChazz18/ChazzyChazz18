@@ -19,6 +19,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />][java]
+[<img align="left" alt="c#" width="26px" src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" />][csharp]
+
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -30,6 +32,7 @@
 [css]:https://www.w3schools.com/css/default.asp
 [javascript]:https://www.w3schools.com/js/default.asp
 [java]:https://www.w3schools.com/java/default.asp
+[csharp]:https://www.w3schools.com/cs/index.php
 [sql]:https://www.w3schools.com/sql/default.asp
 [git]:https://www.w3schools.com/GIT/default.asp
 [github]:https://www.w3schools.com/whatis/whatis_github.asp
