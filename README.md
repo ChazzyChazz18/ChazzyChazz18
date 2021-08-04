@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="https://www.privarsa.com.mx/wp-content/uploads/2017/04/LINKEDIN-logo.png" />][linkedin]
 
 <br />
 
@@ -40,13 +40,18 @@
 
 </details>
 
+<!-- Social -->
 [linkedin]:https://www.linkedin.com/in/rewel-mejia-estrella-a027a9196/
+
+<!-- Languages -->
 [html5]:https://www.w3schools.com/html/default.asp
 [css]:https://www.w3schools.com/css/default.asp
 [javascript]:https://www.w3schools.com/js/default.asp
 [java]:https://www.w3schools.com/java/default.asp
 [csharp]:https://www.w3schools.com/cs/index.php
 [sql]:https://www.w3schools.com/sql/default.asp
+
+<!-- Tools/Frameworks -->
 [git]:https://git-scm.com/
 [github]:https://www.w3schools.com/whatis/whatis_github.asp
 [terminal]:https://www.w3schools.com/whatis/whatis_cli.asp
