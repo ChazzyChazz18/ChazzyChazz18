@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="https://www.privarsa.com.mx/wp-content/uploads/2017/04/LINKEDIN-logo.png" />][linkedin]
+[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="https://www.techcounsellor.com/wp-content/uploads/2020/04/Linkedin-icon.png" />][linkedin]
 
 <br />
 
