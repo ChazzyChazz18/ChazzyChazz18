@@ -47,7 +47,7 @@
 [java]:https://www.w3schools.com/java/default.asp
 [csharp]:https://www.w3schools.com/cs/index.php
 [sql]:https://www.w3schools.com/sql/default.asp
-[git]:https://www.w3schools.com/GIT/default.asp
+[git]:https://git-scm.com/
 [github]:https://www.w3schools.com/whatis/whatis_github.asp
 [terminal]:https://www.w3schools.com/whatis/whatis_cli.asp
 [visualstudiocode]:https://code.visualstudio.com/
