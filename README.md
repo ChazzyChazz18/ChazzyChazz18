@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer
 - 👀 I’m interested in Front end development and mobile applications
 - 🌱 I’m currently learning Flutter and Java Spring
-- 💞️ I’m looking to collaborate on a good app or a game (Unity) as a member
+- 💞️ I’m looking to collaborate with a team of passionate people in a mobile app or in a game (Unity)
 - 📫 You could reach me at rewelme18@hotmail.com or groagunst@gmail.com
 
 ## Connect with me:
