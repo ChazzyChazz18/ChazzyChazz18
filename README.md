@@ -50,3 +50,4 @@
 [github]:https://www.w3schools.com/whatis/whatis_github.asp
 [terminal]:https://www.w3schools.com/whatis/whatis_cli.asp
 [visualstudiocode]:https://code.visualstudio.com/
+[androidstudio]:https://developer.android.com/studio/features
