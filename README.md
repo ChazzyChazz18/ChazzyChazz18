@@ -27,7 +27,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
 [<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />][androidstudio]
-[<img align="left" alt="Unity" width="26px" src="https://www.jfl-media.com/en/wp-content/uploads/2021/03/unity-icon.png" />][unity]
+[<img align="left" alt="Unity" width="26px" src="https://mpng.subpng.com/20180528/wjv/kisspng-unity-computer-icons-software-development-kit-5b0c54d08fdc65.1206305415275348005893.jpg" />][unity]
 
 <br />
 
