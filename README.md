@@ -1,9 +1,9 @@
-## Hi, I’m Rewel a.k.a. @ChazzyChazz18
+## Hi, I’m Rewel
 
 ## I'm a Student and a Developer
 - 👀 I’m interested in Front end development and mobile applications
-- 🌱 I’m currently learning Flutter and Java Spring
-- 💞️ I’m looking to collaborate with a team of passionate people in a mobile app or in a game (Unity)
+- 🌱 I’m currently learning Flutter and Kotlin
+- 💞️ I’m looking to collaborate with a team of passionate people in a mobile app
 - 📫 You could reach me at rewelme18@hotmail.com or groagunst@gmail.com
 
 ## Connect with me:
