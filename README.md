@@ -2,8 +2,7 @@
 
 ## I'm a Student and a Developer
 - 👀 I’m interested in Front end development and mobile applications
-- 🌱 I’m currently learning Flutter and Kotlin
-- 💞️ I’m looking to collaborate with a team of passionate people in a mobile app
+- 🌱 Looking to be part of a great team and contribute as an Android/Mobile or Front-End Developer
 - 📫 You could reach me at rewelme18@hotmail.com or groagunst@gmail.com
 
 ## Connect with me:
