@@ -15,6 +15,8 @@
 
 ### Platforms:
 
+<br />
+
 ### Languages:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -24,7 +26,11 @@
 [<img align="left" alt="Java" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />][java]
 [<img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][csharp]
 
+<br />
+
 ### Tecnologies:
+
+<br />
 
 ### Development tools:
 
@@ -33,9 +39,11 @@
 [<img align="left" alt="Unity" width="26px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />][unity]
 [<img align="left" alt="Unity" width="26px" src="https://th.bing.com/th/id/OIP.iAnYiDHGytpOjN6g6aBjPQHaHa?rs=1&pid=ImgDetMain" />][visualstudio]
 
-
+<br />
 
 ### Project management tools:
+
+<br />
 
 ### Version control:
 
