@@ -15,6 +15,11 @@
 
 ### Platforms:
 
+[<img align="left" alt="HTML5" width="26px" src="https://logospng.org/download/android/logo-android-4096.png" />][android]
+[<img align="left" alt="HTML5" width="26px" src="https://icon-library.com/images/ios-icon/ios-icon-1.jpg" />][ios]
+[<img align="left" alt="HTML5" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Huawei-Logo.png" />][huawei]
+[<img align="left" alt="HTML5" width="26px" src="https://th.bing.com/th/id/R.e3b0429dbc1ea8712f53df385f54f9ff?rik=x29NIYkh6S0utQ&riu=http%3a%2f%2ficon-library.com%2fimages%2fweb-png-icon%2fweb-png-icon-7.jpg&ehk=n%2fPR0YVOrwJxuqLDtdP2wb7myrmH2T0kcXeslaxbSKQ%3d&risl=&pid=ImgRaw&r=0" />][web]
+
 <br />
 
 ### Languages:
@@ -95,3 +100,9 @@
 [jira]:https://www.atlassian.com/software/jira?campaign=470711191&adgroup=1309519485776765&targetid=kwd-81845221286369:loc-55&matchtype=p&bidmatchtype=bp&network=o&device=c&creative=81845022673634&keyword=online%20project%20management%20software&querystring=jira&ds_eid=700000001738795&ds_e1=MICROSOFT&msclkid=4e4fc8e56de51d1fef36affeb9f10167
 [asana]:https://asana.com/
 [trello]:https://trello.com/
+
+<!-- -->
+[android]:https://trello.com/
+[ios]:https://trello.com/
+[huawei]:https://trello.com/
+[web]:https://trello.com/
