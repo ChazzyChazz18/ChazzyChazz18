@@ -1,6 +1,6 @@
-## Hi, I’m Rewel
+## Hi, I’m Rewel Mejia Estrella
 
-## I'm a Student and a Developer
+## I'm a Mobile and Front-end Developer
 - 👀 I’m interested in Front end development and mobile applications
 - 🌱 Looking to be part of a great team and contribute as an Android/Mobile or Front-End Developer
 - 📫 You could reach me at rewelme18@hotmail.com or groagunst@gmail.com
