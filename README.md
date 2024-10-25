@@ -7,7 +7,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="https://www.techcounsellor.com/wp-content/uploads/2020/04/Linkedin-icon.png" />][linkedin]
+[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="22px" src="[https://www.techcounsellor.com/wp-content/uploads/2020/04/Linkedin-icon.png](https://www.kindpng.com/picc/m/35-350659_linkedin-icon-vector-png-linkedin-logo-circle-transparent.png)" />][linkedin]
 
 <br />
 
