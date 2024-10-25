@@ -40,7 +40,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" />][gitlab]
 [<img align="left" alt="GitHub" width="26px" src="https://freepngdesign.com/content/uploads/images/bitbucket-icon-8885.png" />][bitbucket]
-[<img align="left" alt="GitHub" width="26px" src="https://en.pcfavour.info/wp-content/uploads/2014/12/TortoiseSVN-logo-icon.jpg" />][tortoiseSVN]
+[<img align="left" alt="GitHub" width="26px" src="https://tortoisesvn.net/assets/img/logo-256x256.png" />][tortoiseSVN]
 
 <br />
 
