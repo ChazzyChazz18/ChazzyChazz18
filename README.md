@@ -40,9 +40,9 @@
 [<img align="left" alt="IOS" width="26px" src="https://www.stonks.tech/_next/image?url=%2Fimages%2Fflutter.png&w=640&q=75" />][futter]
 [<img align="left" alt="IOS" width="40px" src="https://th.bing.com/th/id/R.5d08821b009a65732e8eb48cbd3da4bb?rik=zDAxNKCXubrXCA&riu=http%3a%2f%2findusvalleylabs.com%2fimages%2ftechnologies%2flogo-angular.png&ehk=qXrGWDPpmCiaffpJ2%2fEXfreXcXv8HlAfuAYhVdxvnrk%3d&risl=&pid=ImgRaw&r=0" />][angularjs]
 [<img align="left" alt="IOS" width="36px" src="https://toppng.com/uploads/thumbnail/angular-logo-116093551654bcogxdpub.png" />][angular2]
-[<img align="left" alt="IOS" width="32px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-1024.png" />][json]
-[<img align="left" alt="IOS" width="32px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-1024.png" />][xml]
-[<img align="left" alt="IOS" width="32px" src="https://4.bp.blogspot.com/-2RwVZMZxwi4/VYK1LM4CF6I/AAAAAAAAAzA/y_koUiSYRtg/s1600/cordova_bot.png" />][cordova]
+[<img align="left" alt="IOS" width="36px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-1024.png" />][json]
+[<img align="left" alt="IOS" width="36px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-1024.png" />][xml]
+[<img align="left" alt="IOS" width="36px" src="https://4.bp.blogspot.com/-2RwVZMZxwi4/VYK1LM4CF6I/AAAAAAAAAzA/y_koUiSYRtg/s1600/cordova_bot.png" />][cordova]
 [<img align="left" alt="IOS" width="26px" src="https://image.pngaaa.com/432/3425432-middle.png" />][firebase]
 [<img align="left" alt="IOS" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254149/npm-icon-md.png" />][npm]
 
