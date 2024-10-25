@@ -117,3 +117,13 @@
 [ios]:https://www.apple.com/
 [huawei]:https://www.huawei.com/en/
 [web]:https://www.google.com/
+
+<!-- -->
+[futter]:https://www.android.com/
+[angularjs]:https://www.android.com/
+[angular2]:https://www.android.com/
+[json]:https://www.android.com/
+[xml]:https://www.android.com/
+[cordova]:https://www.android.com/
+[firebase]:https://www.android.com/
+[npm]:https://www.android.com/
