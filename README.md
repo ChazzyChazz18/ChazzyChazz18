@@ -56,7 +56,8 @@
 [<img align="left" alt="Unity" width="36px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />][unity]
 [<img align="left" alt="Visual Studio" width="48px" src="https://th.bing.com/th/id/OIP.iAnYiDHGytpOjN6g6aBjPQHaHa?rs=1&pid=ImgDetMain" />][visualstudio]
 
-<br>  
+<br>
+<br>
 
 ### Project management tools:
 
