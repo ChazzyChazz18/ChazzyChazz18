@@ -67,11 +67,11 @@
 
 ### Version control:
 
-[<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GITHUB" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="GITLAB" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" />][gitlab]
-[<img align="left" alt="BITBUCKET" width="26px" src="https://freepngdesign.com/content/uploads/images/bitbucket-icon-8885.png" />][bitbucket]
-[<img align="left" alt="TORTOISESVN" width="26px" src="https://tortoisesvn.net/assets/img/logo-256x256.png" />][tortoiseSVN]
+[<img align="left" alt="GIT" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GITHUB" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GITLAB" width="36px" src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" />][gitlab]
+[<img align="left" alt="BITBUCKET" width="36px" src="https://freepngdesign.com/content/uploads/images/bitbucket-icon-8885.png" />][bitbucket]
+[<img align="left" alt="TORTOISESVN" width="36px" src="https://tortoisesvn.net/assets/img/logo-256x256.png" />][tortoiseSVN]
 
 <br />
 
