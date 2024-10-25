@@ -38,7 +38,7 @@
 [<img align="left" alt="ANDROID" width="36px" src="https://logospng.org/download/android/logo-android-4096.png" />][android]
 [<img align="left" alt="IOS" width="26px" src="https://icon-library.com/images/ios-icon/ios-icon-1.jpg" />][ios]
 [<img align="left" alt="IOS" width="26px" src="https://www.stonks.tech/_next/image?url=%2Fimages%2Fflutter.png&w=640&q=75" />][futter]
-[<img align="left" alt="IOS" width="26px" src="https://th.bing.com/th/id/R.df0000f862f54efaf07879485207c95a?rik=DivjzndRLjtGgw&pid=ImgRaw&r=0" />][angularjs]
+[<img align="left" alt="IOS" width="36px" src="https://th.bing.com/th/id/R.df0000f862f54efaf07879485207c95a?rik=DivjzndRLjtGgw&pid=ImgRaw&r=0" />][angularjs]
 [<img align="left" alt="IOS" width="26px" src="https://th.bing.com/th/id/OIP.23VRF2RtxpYXoX3-qBtWnQHaGa?rs=1&pid=ImgDetMain" />][angular2]
 [<img align="left" alt="IOS" width="26px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-1024.png" />][json]
 [<img align="left" alt="IOS" width="26px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-1024.png" />][xml]
