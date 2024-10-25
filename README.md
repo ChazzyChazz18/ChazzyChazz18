@@ -17,7 +17,7 @@
 
 [<img align="left" alt="ANDROID" width="26px" src="https://logospng.org/download/android/logo-android-4096.png" />][android]
 [<img align="left" alt="IOS" width="26px" src="https://icon-library.com/images/ios-icon/ios-icon-1.jpg" />][ios]
-[<img align="left" alt="HUAWEI" width="26px" src="https://logos-world.net/wp-content/uploads/2020/04/Huawei-Logo.png" />][huawei]
+[<img align="left" alt="HUAWEI" width="36px" src="https://logos-world.net/wp-content/uploads/2020/04/Huawei-Logo.png" />][huawei]
 [<img align="left" alt="WEB" width="30px" src="https://th.bing.com/th/id/R.e3b0429dbc1ea8712f53df385f54f9ff?rik=x29NIYkh6S0utQ&riu=http%3a%2f%2ficon-library.com%2fimages%2fweb-png-icon%2fweb-png-icon-7.jpg&ehk=n%2fPR0YVOrwJxuqLDtdP2wb7myrmH2T0kcXeslaxbSKQ%3d&risl=&pid=ImgRaw&r=0" />][web]
 
 <br />
