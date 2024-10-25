@@ -43,6 +43,10 @@
 
 ### Project management tools:
 
+[<img align="left" alt="Git" width="26px" src="https://th.bing.com/th/id/R.8c8b9fe2210785205c5f8c78f385253b?rik=tksazEPbZxKmwA&pid=ImgRaw&r=0" />][jira]
+[<img align="left" alt="Git" width="26px" src="https://logos-world.net/wp-content/uploads/2021/02/Asana-Logo.png" />][asana]
+[<img align="left" alt="Git" width="26px" src="https://icon-library.com/images/trello-icon-png/trello-icon-png-5.jpg" />][trello]
+
 <br />
 
 ### Version control:
@@ -86,3 +90,8 @@
 [androidstudio]:https://developer.android.com/studio/features
 [unity]:https://unity.com/
 [visualstudio]:https://visualstudio.microsoft.com/es/downloads/
+
+<!-- -->
+[jira]:https://www.atlassian.com/software/jira?campaign=470711191&adgroup=1309519485776765&targetid=kwd-81845221286369:loc-55&matchtype=p&bidmatchtype=bp&network=o&device=c&creative=81845022673634&keyword=online%20project%20management%20software&querystring=jira&ds_eid=700000001738795&ds_e1=MICROSOFT&msclkid=4e4fc8e56de51d1fef36affeb9f10167
+[asana]:https://asana.com/
+[trello]:https://trello.com/
