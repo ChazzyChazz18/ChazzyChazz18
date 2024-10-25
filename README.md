@@ -59,9 +59,9 @@
 
 ### Project management tools:
 
-[<img align="left" alt="JIRA" width="36px" src="https://th.bing.com/th/id/R.8c8b9fe2210785205c5f8c78f385253b?rik=tksazEPbZxKmwA&pid=ImgRaw&r=0" />][jira]
-[<img align="left" alt="ASANA" width="30px" src="https://logos-world.net/wp-content/uploads/2021/02/Asana-Logo.png" />][asana]
-[<img align="left" alt="TRELLO" width="26px" src="https://icon-library.com/images/trello-icon-png/trello-icon-png-5.jpg" />][trello]
+[<img align="left" alt="JIRA" width="48px" src="https://th.bing.com/th/id/R.8c8b9fe2210785205c5f8c78f385253b?rik=tksazEPbZxKmwA&pid=ImgRaw&r=0" />][jira]
+[<img align="left" alt="ASANA" width="36px" src="https://logos-world.net/wp-content/uploads/2021/02/Asana-Logo.png" />][asana]
+[<img align="left" alt="TRELLO" width="36px" src="https://icon-library.com/images/trello-icon-png/trello-icon-png-5.jpg" />][trello]
 
 <br />
 
