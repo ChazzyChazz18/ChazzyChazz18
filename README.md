@@ -1,13 +1,13 @@
 ## Hi, I’m Rewel Mejia Estrella
 
 ## I'm a Mobile and Front-end Developer
-- 👀 I’m interested in Front end development and mobile applications
-- 🌱 Looking to be part of a great team and contribute as an Android/Mobile or Front-End Developer
+- Worked on Differents areas as a Mobile developer, both native and hybrid, such as Enterteiment (Music), Banking, Management, Insurance, Sports and more.
+- Looking to be part of a great team and contribute as an Android/Mobile or Front-End Developer
 - 📫 You could reach me at rewelme18@hotmail.com or groagunst@gmail.com
 
 ## Connect with me:
 
-[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="32px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" />][linkedin]
+[<img align="left" alt="Rewel Mejia Estrella | Linkedin" width="32px" src="https://www.svgrepo.com/show/75820/linkedin.svg" />][linkedin]
 
 <br />
 
