@@ -37,7 +37,7 @@
 
 ### Project management tools:
 
-## Version control:
+### Version control:
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -70,11 +70,11 @@
 <!-- Tools/Frameworks -->
 [git]:https://git-scm.com/
 [github]:https://www.w3schools.com/whatis/whatis_github.asp
-[gitlab]:https://www.w3schools.com/whatis/whatis_github.asp
-[bitbucket]:https://www.w3schools.com/whatis/whatis_github.asp
-[tortoiseSVN]:https://www.w3schools.com/whatis/whatis_github.asp
+[gitlab]:https://about.gitlab.com/
+[bitbucket]:https://bitbucket.org/
+[tortoiseSVN]:https://tortoisesvn.net/
 [terminal]:https://www.w3schools.com/whatis/whatis_cli.asp
 [visualstudiocode]:https://code.visualstudio.com/
 [androidstudio]:https://developer.android.com/studio/features
 [unity]:https://unity.com/
-[visualstudio]:https://unity.com/
+[visualstudio]:https://visualstudio.microsoft.com/es/downloads/
