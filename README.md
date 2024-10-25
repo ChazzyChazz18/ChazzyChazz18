@@ -39,7 +39,7 @@
 [<img align="left" alt="IOS" width="26px" src="https://icon-library.com/images/ios-icon/ios-icon-1.jpg" />][ios]
 [<img align="left" alt="IOS" width="26px" src="https://www.stonks.tech/_next/image?url=%2Fimages%2Fflutter.png&w=640&q=75" />][futter]
 [<img align="left" alt="IOS" width="64px" src="https://th.bing.com/th/id/R.df0000f862f54efaf07879485207c95a?rik=DivjzndRLjtGgw&pid=ImgRaw&r=0" />][angularjs]
-[<img align="left" alt="IOS" width="32px" src="https://www.liblogo.com/img-logo/an271a55f-angular-logo-angular-logo-transparent-png-stickpng.png" />][angular2]
+[<img align="left" alt="IOS" width="32px" src="https://www.ecured.cu/images/5/55/Angular1.jpg" />][angular2]
 [<img align="left" alt="IOS" width="26px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-1024.png" />][json]
 [<img align="left" alt="IOS" width="26px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-1024.png" />][xml]
 [<img align="left" alt="IOS" width="26px" src="https://4.bp.blogspot.com/-2RwVZMZxwi4/VYK1LM4CF6I/AAAAAAAAAzA/y_koUiSYRtg/s1600/cordova_bot.png" />][cordova]
